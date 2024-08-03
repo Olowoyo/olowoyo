@@ -3,8 +3,8 @@
 Over the years, I’ve had the opportunity to work on diverse projects that challenged me to push the boundaries of what’s possible on the web.
 
 ## :raising_hand_man: **About Me** :
-👯 I’m looking to collaborate.
-💬 Ask me about Frontend Developement .
+<li>👯 I’m looking to collaborate.</li>
+<li>💬 Ask me about Frontend Developement .</li>
 
 ## :wrench: **Languages, Tools , & Skills** :
 React
