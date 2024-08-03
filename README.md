@@ -7,22 +7,23 @@ Over the years, I’ve had the opportunity to work on diverse projects that chal
 <li>💬 Ask me about Frontend Developement .</li>
 
 ## :wrench: **Languages, Tools , & Skills** :
-React
-JavaScript
-TypeScript
-PostgreSQL
-SaaS
-Redux
-CSS
-Supabase
-Firebase
-Tailwind CSS
-Bootstrap
-HTML5
-Git
-Front-End Development
-Agile Software Development
-Framer-Motion
+React,
+JavaScript,
+TypeScript,
+PostgreSQL,
+SaaS,
+Redux,
+CSS,
+Supabase,
+Firebase,
+Tailwind CSS,
+Bootstrap,
+HTML5,
+Git,
+Front-End Development,
+Agile Software Development,
+Framer-Motion,
+GitHub
 
 📫 How to reach me: <a href='https://www.olowoyo.dev'>olowoyo.dev</a>
 
