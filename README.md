@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my corner of the digital universe—Olowoyo's world. I'm a frontend engineer.
+My journey as a developer began with a curiosity for how things work behind the scenes, which quickly turned into a love for coding and design. 
+Over the years, I’ve had the opportunity to work on diverse projects that challenged me to push the boundaries of what’s possible on the web.
 
 <!--
 **Olowoyo/olowoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
