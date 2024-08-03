@@ -2,13 +2,13 @@
 ⚡My journey as a developer began with a curiosity for how things work behind the scenes, which quickly turned into a love for coding and design. 
 Over the years, I’ve had the opportunity to work on diverse projects that challenged me to push the boundaries of what’s possible on the web.
 
-:raising_hand_man: **About Me**
+## :raising_hand_man: **About Me** :
 🌱 Graduated as Software Engineering from Addis Ababa University.
 📫 I'm Certified Scrum Master
 👯 I’m looking to collaborate.
 💬 Ask me about Frontend and Backend Developement .
 
-:wrench: **Languages, Tools , & Skills**
+## :wrench: **Languages, Tools , & Skills** :
 React
 JavaScript
 TypeScript
@@ -28,7 +28,9 @@ Framer-Motion
 
 📫 How to reach me: <a href='olowoyo.dev'>olowoyo.dev</a>
 
-**Connect with Me** 
+## **Connect with Me** : <a href='https://www.linkedin.com/in/blessing-olowoyo-79815b247/'>LinkedIn</a>
+
+So, what do you say? Let's roll up our sleeves and craft something extraordinary together.
 
 <!--
 **Olowoyo/olowoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
