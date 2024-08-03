@@ -26,7 +26,7 @@ Front-End Development
 Agile Software Development
 Framer-Motion
 
-📫 How to reach me: <a href='olowoyo.dev'>olowoyo.dev</a>
+📫 How to reach me: <a href='https://www.olowoyo.dev'>olowoyo.dev</a>
 
 ## **Connect with Me** : <a href='https://www.linkedin.com/in/blessing-olowoyo-79815b247/'>LinkedIn</a>
 
