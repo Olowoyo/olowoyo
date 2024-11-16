@@ -7,6 +7,7 @@ Over the years, I’ve had the opportunity to work on diverse projects that chal
 <li>💬 Ask me about Frontend Developement .</li>
 
 ## :wrench: **Languages, Tools , & Skills** :
+Next.js,
 React,
 JavaScript,
 TypeScript,
